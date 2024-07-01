@@ -1,0 +1,64 @@
+:root {
+  --skyblue: #f5fcff;
+  --purple: #5e3bee;
+  --green: #006B6A;
+}
+
+.Nolor {
+  background-color: var(--skyblue);
+  font-size: 19px;
+}
+a {
+  color: black !important;
+}
+a:active {
+  color: #5e3bee !important;
+}
+.nav-button {
+  border: 1px solid var(--purple);
+  color: var(--purple);
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #fff;
+}
+.big-fon {
+  font-size: 50px;
+}
+.touch-in {
+  background-color: var(--purple);
+  border: var(--purple);
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 22px;
+}
+.section-c {
+  background-color: var(--skyblue);
+}
+.bottom-purple {
+  border-bottom: 4px solid var(--purple);
+}
+.about-text {
+  margin-top: 150px;
+}
+.bottom-green {
+  border-bottom: 4px solid var(--green);
+}
+
+.bottom-purpl{
+  border-bottom: 2px solid var(--purple);
+  
+}
+.green-border{
+  border: 1px solid var(--green);
+ 
+}
+
+
+.add-comment-input {
+  height: 6rem;
+  resize: none;
+}
